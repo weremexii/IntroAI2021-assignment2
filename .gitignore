@@ -1,4 +1,4 @@
 #filesystem
 .DS_Store
-.*
-!.gitignore
+# Thumbnails
+._*
