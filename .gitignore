@@ -1,0 +1,4 @@
+#filesystem
+.DS_Store
+.*
+!.gitignore
